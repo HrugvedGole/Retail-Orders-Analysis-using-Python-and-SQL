@@ -75,8 +75,13 @@ Advanced SQL Techniques: Employed joins to combine data from multiple tables, su
 This project demonstrates a comprehensive approach to data analysis, starting from data extraction and cleaning using Python to advanced data analysis using MySQL. The insights gained from this analysis can help retail businesses make informed decisions based on data trends and patterns.
 
 # Repository Structure
+
 data/: Contains the raw and cleaned datasets.
+
 notebooks/: Jupyter notebooks detailing the data cleaning and transformation process.
+
 sql/: SQL scripts used for data analysis.
+
 SQL_code.txt: A text file containing the SQL code for viewers' convenience.
+
 README.md: Project overview and detailed description.
